@@ -1,0 +1,37 @@
+#changeColorsBox {
+
+    background-color:  green;
+    width: 100%;
+    height: 500px;
+
+}
+
+.buttonColors button{
+    width: 50px;
+    height: 50px;
+}
+.buttonColors #q{
+
+    background-color: #fc0808;
+}
+.buttonColors #w{
+
+    background-color: #ffcc05;
+}
+.buttonColors #e{
+
+    background-color: #08ecf3;
+}
+.buttonColors #r{
+
+    background-color: #12ff00;
+}
+.buttonColors #t{
+    background-color: #077cff;
+}
+.buttonColors #y{
+    background-color: #054cff;
+}
+.buttonColors #u{
+    background-color: #be08fd;
+}
