@@ -1,14 +1,17 @@
 #changeColorsBox {
 
-    background-color:  green;
-    width: 100%;
-    height: 500px;
+    width: 200px;
+    height: 200px;
 
 }
 
 .buttonColors button{
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 20px;
+}
+.fontColor button{
+    width: 30px;
+    height: 20px;
 }
 .buttonColors #q{
 
@@ -35,3 +38,31 @@
 .buttonColors #u{
     background-color: #be08fd;
 }
+
+.fontColor #fontColorQ{
+    background-color: #070101;
+}
+
+.fontColor #fontColorW{
+    background-color: #12ff00;
+}
+.fontColor #fontColorE{
+    background-color: #fc0808;
+}
+.fontColor #fontColorR{
+    background-color: #f7ff0e;
+}
+.fontColor #fontColorT{
+    background-color: #001496;
+}
+#fontColorY{
+    background-color: #805100;
+}
+#fontColorU{
+    background-color: #eb05fa;
+}
+
+
+
+
+
